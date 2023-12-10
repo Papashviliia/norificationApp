@@ -1,0 +1,3 @@
+com.papas.thridapp.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

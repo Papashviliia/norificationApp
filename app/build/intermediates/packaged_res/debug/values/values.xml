@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">thridApp</string>
+    <string name="task_1">
+
+</string>
+    <string name="task_2">
+
+</string>
+    <string name="task_3">
+
+</string>
+    <string name="task_4">
+
+</string>
+    <string name="task_5">
+
+</string>
+    <style name="Base.Theme.ThridApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ThridApp" parent="Base.Theme.ThridApp"/>
+</resources>

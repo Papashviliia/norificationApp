@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_alert
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable notification
+id button
+id textView5
+id txtComment
+id txtEdit
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string task_1
+string task_2
+string task_3
+string task_4
+string task_5
+style Base.Theme.ThridApp
+style Theme.ThridApp
+xml backup_rules
+xml data_extraction_rules
